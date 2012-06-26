@@ -3,9 +3,9 @@ TEXT-TEMPO
 ANIMATION
 KAMPFSTIL
 TON
-TEXTMODUS
+DEUTSCH
 RADIO
-ＩＲ-SICHERUNG
+IR-SICHERUNG
 O.K.
 ZURUECK
 1
@@ -17,21 +17,21 @@ TAUSCH
 FOLGE
 STEREO
 MONO
-ひらがな
-かんじ
-オン
-オフ
-かく
-かかない
+JA
+NEIN
+AN
+AUS
+SPEICHERN
+NICHT SPEICHERN
 Waehle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
 Waehle, ob in den Kaempfen Animationen für\xfffedie Attacken angezeigt werden sollen.
 Waehle zwischen zwei verschiedenen\xfffeKampfstilen.
 Waehle, wie das\xfffeSpiel klingen soll.
-もじの　ひょうじを\xfffeきりかえることが　できます
-いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
+Waehle die Sprache des Spiels
+Waehle, ob die drahtlose\xfffeKommunikation an oder aus ist.
+Waehle, ob du vor dem Einsatz\xfffeder Infratotfunktion speicher möchtest.
+Du hast schon gespeicherte Daten\xfffeDu kannst dies nicht aendern\xf000븁\x0000
 Aenderungen vornehmen？
 JA
 NEIN
-ダミーメッセージ
+Dummy-Nachricht!
